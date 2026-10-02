@@ -1,0 +1,32 @@
+{
+  "config": {
+    "host": "alamincraft.aternos.me",
+    "port": 26832,
+    "username": "FrankAFK_Guard",
+    "version": "auto",
+    "auth": "offline",
+    "movementMode": "continuous_roam",
+    "autoWalk": true,
+    "walkIntervalSec": 4,
+    "walkDurationMs": 350,
+    "walkRadiusBlocks": 5,
+    "autoJump": true,
+    "jumpIntervalSec": 8,
+    "randomHeadLook": true,
+    "sneakPulse": true,
+    "armSwing": true,
+    "humanizeTimingJitterPct": 30,
+    "autoReconnect": true,
+    "reconnectBaseDelaySec": 5,
+    "reconnectMaxDelaySec": 30,
+    "exponentialBackoff": true,
+    "keepaliveTimeoutSec": 240,
+    "chatHeartbeatEnabled": false,
+    "chatHeartbeatIntervalMin": 15
+  },
+  "cumulativeUptimeSeconds": 6626,
+  "totalKeepalivesAcked": 427,
+  "totalMovementsExecuted": 3606,
+  "antiKickPulsesSent": 160,
+  "updatedAt": "2026-10-02T15:21:11.491Z"
+}
